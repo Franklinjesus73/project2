@@ -12,6 +12,8 @@ The display name and last selected channel are stored locally in the browser.
 
 Personal touch: logout and hide button: if is clicked, hide the channel from the channel list.
 
+Video: https://youtu.be/J-5MvB54d8E
+
 
 # Screenshot
 ![Screenshot](static/img/page.png)
